@@ -1,0 +1,10 @@
+name: SignWarp
+version: ${project.version}
+main: net.flixgames.signwarp.SignWarp
+api-version: 1.8.8
+authors: [qebusted]
+
+commands:
+  removewarp:
+  setwarp:
+  warps:
